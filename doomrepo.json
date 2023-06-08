@@ -1,0 +1,43 @@
+{
+    "modpacks": [
+    {
+        "name": "Complex Brutal DOOM",
+        "description": "Complex doom with brutal addons.",
+        "mods": [
+          {
+            "name": "lexicon-beta-build-133.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=lexicon-beta-build-133.pk3"
+          },
+          {
+            "name": "complex-doom.v27b2.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=complex-doom.v27b2.pk3"
+          },
+          {
+            "name": "complex-headshots.v3a4.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=complex-headshots.v3a4.pk3"
+          },
+          {
+            "name": "midi_floppydisk.pk7",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=midi_floppydisk.pk7"
+          },
+          {
+            "name": "midi_silencehack.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=midi_silencehack.pk3"
+          },
+          {
+            "name": "hpbar-v25b.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=hpbar-v25b.pk3"
+          },
+          {
+            "name": "bbgorenew_edited_v1.2.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=bbgorenew_edited_v1.2.pk3"
+          },
+          {
+            "name": "universalgibs-master.pk3",
+            "download_url": "https://allfearthesentinel.com/zandronum/download.php?file=universalgibs-master.pk3"
+          }
+        ]
+    }
+    ]
+  }
+  
