@@ -3,6 +3,8 @@
     {
         "name": "Complex Brutal DOOM",
         "description": "Complex doom with brutal addons.",
+        "server": "104.128.58.120:10794",
+        "iwad": "doom2.wad",
         "mods": [
           {
             "name": "lexicon-beta-build-133.pk3",
